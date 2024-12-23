@@ -1,0 +1,19 @@
+{
+  "name": "first-node-project",
+  "version": "1.0.0",
+  "description": "this is my first project in node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node"
+  },
+  "author": "sajjadhza",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
